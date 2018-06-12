@@ -1,0 +1,7 @@
+[2018-06-12 04:06:46,291] [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+[2018-06-12 04:06:46,301] [INFO] discord.client: logging in using static token
+[2018-06-12 04:06:47,434] [INFO] discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+[2018-06-12 04:06:47,648] [INFO] discord.gateway: Shard ID 0 has connected to Gateway: gateway-prd-main-gngd, discord-sessions-prd-1-18 (Session ID: 2e948db11b0798496db4e888614092c4).
+[2018-06-12 04:06:51,298] [INFO] discord.client: Cleaning up event loop.
+[2018-06-12 04:06:51,503] [INFO] discord.gateway: Websocket closed with 1000 (), cannot reconnect.
+[2018-06-12 04:06:51,509] [INFO] discord.client: Cleaning up after 8 tasks
