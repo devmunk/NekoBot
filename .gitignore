@@ -6,18 +6,11 @@ venv/
 .config.py
 config.py
 /config.py
+./config.py
+.config.json
 
 .idea/
 .vscode
 *.sql
 
-.config.json
-
 __pycache__
-
-# AIO_Launcher
-aio_launcher.py
-instance.py
-interface.py
-main.py
-aio_launcher\
